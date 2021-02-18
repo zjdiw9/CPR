@@ -1,0 +1,2 @@
+.modal{position:fixed;left:0;top:0;width:100%;height:100%;opacity:0;z-index:999;transition:opacity .5s ease-in-out}.modal.fade{opacity:1}.modal.fade .content{transform:scale(1)}.modal .content{transform:scale(.4);transition:transform .5s ease-in-out}.modal .bg{width:100%;height:100%;background:rgba(0,0,0,.6);position:absolute;z-index:-1}
+/*# sourceMappingURL=8.6723976c.chunk.css.map */
